@@ -1,3 +1,3 @@
 # websitestructure
 
-link : https://skoonay.github.io/websitestructure/
+link : [https://skoonay.github.io/websitestructurept2/
